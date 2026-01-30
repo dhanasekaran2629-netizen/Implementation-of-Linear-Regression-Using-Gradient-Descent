@@ -7,11 +7,11 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Load data
-2. Feature Scaling
-3. Parameters
-4. Gradient Descent
-5. Plot
+1. Load and preprocess data
+2. Initialize parameters
+3. Predict and compute loss
+4. Update parameters using gradient descent
+5. Visualize and display results
 
 ## Program:
 ```
